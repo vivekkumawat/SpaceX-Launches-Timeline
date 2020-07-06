@@ -1,8 +1,10 @@
 <template>
   <v-app>
-    <v-app-bar app color="primary" dark>
+    <v-app-bar app dark>
       <div class="d-flex align-center">
-        <h2>SpaceX Launches Timeline</h2>
+        <h2 class="font-weight-regular">
+          <i class="fas fa-rocket"></i> SpaceX Launches Timeline
+        </h2>
       </div>
 
       <v-spacer></v-spacer>
