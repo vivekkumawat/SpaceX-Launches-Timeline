@@ -1,4 +1,4 @@
-# spacex-timeline
+# spaceX-timeline
 A simple Vue.js app to showcase all the previous SpaceX Launches.
 <br>
 Live Demo URL: https://romantic-bhabha-119afc.netlify.app/
